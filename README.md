@@ -11,9 +11,8 @@ This project employs Python, 'face_recognition', and 'OpenCV' libraries to creat
 
 ## Usage
 
-1. **Setup:** Clone the repository and install necessary dependencies.
-2. **Data Input:** Configure the code with video sources for bus entry and exit cameras.
-3. **Execution:** Run the code to initiate the monitoring system.
+1. **Data Input:** Configure the code with video sources for bus entry and exit cameras.
+2. **Execution:** Run the code to initiate the monitoring system.
 
 ## How it Works
 
